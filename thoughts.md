@@ -6,3 +6,5 @@ Practicing Googling skills
 Asking for help via Slack
 
 Thank you Donna, Rob, and Dana for being wonderful support systems to me during this difficult and challenging last couple of weeks and months!
+
+I sometimes feel behind when there are people who have some coding experience in class.

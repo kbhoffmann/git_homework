@@ -14,9 +14,11 @@
 
 ```ruby
 
-number_of_miles = 50
+number_of_hours = 40
 
-puts "I have to drive #{number_of_miles} to work."
+puts "I should expect to complete my Mod 1 prework in #{number_of_hours}."
+
+
 
 ```
 [link to my Gist](https://gist.github.com/kbhoffmann/e4b3aa2476f147e709719bd229cf2262
